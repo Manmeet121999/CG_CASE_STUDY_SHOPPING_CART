@@ -1,2 +1,0 @@
-# CG_CASE_STUDY_SHOPPING_CART
-BY Manmeet Singh Narula
